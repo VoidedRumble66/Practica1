@@ -24,6 +24,15 @@
         </header>
         <main>
             <h1>Bienvenido a la pagina de Rodrigo</h1>
+            <div class="card text-start">
+                <img class="card-img-top" src="holder.js/100px180/" alt="Title" />
+                <div class="card-body">
+                    <h4 class="card-title">APLICACIONES WEB</h4>
+                    <p class="card-text">GRADO Y GRUPO: 4 - B</p>
+                    <p class="card-text">Autor: Rodrigo Mendez Encinos</p>
+                </div>
+            </div>
+            
         </main>
         <footer>
             <!-- place footer here -->
